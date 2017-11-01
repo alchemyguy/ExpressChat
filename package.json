@@ -1,5 +1,5 @@
 {
-  "name": "chatio",
+  "name": "ExpressChatApp",
   "version": "1.0.0",
   "description": "simple chat app",
   "main": "server.js",
@@ -8,8 +8,8 @@
   },
   "author": "Mukesh Chandra",
   "license": "ISC",
-  "dependencies":{
-  	"socket.io":"*",
-  	"express":"*"
+  "dependencies": {
+    "socket.io": "*",
+    "express": "*"
   }
 }
